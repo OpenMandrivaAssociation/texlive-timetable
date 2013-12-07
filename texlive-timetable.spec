@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-timetable
 Version:	20080911
-Release:	5
+Release:	6
 Summary:	Generate timetables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/timetable/timetable.tex
