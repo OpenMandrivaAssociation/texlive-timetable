@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Generate timetables
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/timetable/timetable.tex
+URL:		https://www.ctan.org/tex-archive/macros/plain/contrib/timetable/timetable.tex
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/timetable.r%{version}.tar.xz
 BuildArch:	noarch
